@@ -1,1 +1,2 @@
 # Movie_Recommendtion
+To learn and understand deeply I develop a model that gives recommendation for movies of same genre. I used Pandas to clean dataset which contain 1M+ ratings, more than 1000 movies with various genres. Using Machine Learning concept. On the basis of user’s behavior,  model can give recommendation for movies that user may like to watch using ratings and genres. When user watch action movie and gives rating as 4 it means user like action movies so model will recommend action movies which rated by other user.
